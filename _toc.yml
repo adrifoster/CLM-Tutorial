@@ -88,6 +88,12 @@ chapters:
   - file: notebooks/singlepoint/exercises/runtower_NEON
   - file: notebooks/singlepoint/exercises/runtower_PLUMBER2
   - file: notebooks/singlepoint/exercises/FATESsp_NEON
+    
+- file: notebooks/calibration/calibration_overview
+  sections:
+    - file: notebooks/calibration/create_param_ensembles
+    - file: noteboos/calibration/submit_ensemble
+    - file: notebooks/calibration/ensemble_analysis
 
 - file: notebooks/troubleshooting/troubleshooting
   sections:
